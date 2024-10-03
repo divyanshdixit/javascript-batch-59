@@ -1,0 +1,8 @@
+js => external file => include this file in script tag in html
+js => html file
+
+see output => console.log('output')
+
+js => programming lang 
+js => dynamic datatype language
+js => case senstive 
